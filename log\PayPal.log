@@ -1,0 +1,26 @@
+# Logfile created on 2013-10-07 15:37:20 +0900 by logger.rb/36483
+
+
+Mon 10/07/13 15:37 JST- SENT:
+method=TransactionSearch&trxtype=Q&startdate=2013-10-06T00:00:00Z&enddate=2013-10-07T24:00:00Z&transactionid=3&USER=sdk-three_api1.sdk.com&PWD=XXXXXX&SIGNATURE=XXXXXX&SUBJECT=&VERSION=65.1&SOURCE=PayPalRubySDKV1.2.0
+
+
+Mon 10/07/13 15:37 JST- RECEIVED:
+
+
+Mon 10/07/13 15:37 JST- SENT:
+method=TransactionSearch&trxtype=Q&startdate=2013-10-06T00:00:00Z&enddate=2013-10-07T24:00:00Z&transactionid=3&USER=sdk-three_api1.sdk.com&PWD=XXXXXX&SIGNATURE=XXXXXX&SUBJECT=&VERSION=65.1&SOURCE=PayPalRubySDKV1.2.0
+
+
+Mon 10/07/13 15:37 JST- RECEIVED:
+
+
+Mon 10/07/13 15:38 JST- SENT:
+method=TransactionSearch&trxtype=Q&startdate=2013-10-06T00:00:00Z&enddate=2013-10-07T24:00:00Z&transactionid=&USER=sdk-three_api1.sdk.com&PWD=XXXXXX&SIGNATURE=XXXXXX&SUBJECT=&VERSION=65.1&SOURCE=PayPalRubySDKV1.2.0
+
+
+Mon 10/07/13 15:42 JST- SENT:
+method=gettransactionDetails&transactionid=46S32194SV5288528&USER=sdk-three_api1.sdk.com&PWD=XXXXXX&SIGNATURE=XXXXXX&SUBJECT=&VERSION=65.1&SOURCE=PayPalRubySDKV1.2.0
+
+
+Mon 10/07/13 15:42 JST- RECEIVED:
